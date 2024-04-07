@@ -1,0 +1,16 @@
+{
+  "name": "sajansharmanz/php-framework",
+  "description": "PHP Framework",
+  "authors": [
+    {
+      "name": "Sajan Sharma",
+      "email": "sajansharmanz@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
